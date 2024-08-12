@@ -1,9 +1,3 @@
-/*
-  As primeiras linhas de código deste arquivo servem para evitar que
-  múltiplas definições da classe Time ocorram. Isso poderia ocorrer se
-  você der include de dois pacotes que dão include em "time.h"
-*/
-
 #ifndef TIME_H   // Inclua esse bloco apenas se TIME_H não está definido
 #define TIME_H   // Na primeira inclusão, defina TIME_H para que este
 		 // bloco não seja incluído mais de uma vez.
