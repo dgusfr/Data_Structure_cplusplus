@@ -14,4 +14,4 @@ Compilado o código, o arquivo gerado pode ser executado.
 
 `$ ./ex0_hello_world`
 
-### Olá mundo
+### Hello World
