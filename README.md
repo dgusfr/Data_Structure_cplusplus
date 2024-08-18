@@ -1,6 +1,6 @@
 # Estrutura de dados com C++
 
-Este repositório contém os exercicios práticados em aula do curso de Estrutura de dados da Univesp.
+Este repositório contém os exercicios resolvidos em aula, no curso de Estrutura de dados, da Univesp.
 
 ## Compilação
 
