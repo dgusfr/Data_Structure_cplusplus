@@ -14,4 +14,12 @@ Compilado o código, o arquivo gerado pode ser executado.
 
 `$ ./ex0_hello_world`
 
+## Para a pasta Hash:
 
+Os arquivos desta pasta podem ser compilados com:
+
+$ g++ \*.cpp
+
+Feito isso, a execução será feita com:
+
+$ ./a.out
