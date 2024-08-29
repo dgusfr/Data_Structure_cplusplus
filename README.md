@@ -1,4 +1,4 @@
-# Estrutura de dados com C++
+ui# Estrutura de dados com C++
 
 Este repositório contém os exercicios resolvidos em aula, no curso de Estrutura de dados, da Univesp.
 
@@ -24,4 +24,4 @@ Feito isso, a execução será feita com:
 
 $ ./a.out
 
-h
+hbabd
