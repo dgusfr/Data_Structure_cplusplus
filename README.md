@@ -23,3 +23,5 @@ $ g++ \*.cpp
 Feito isso, a execução será feita com:
 
 $ ./a.out
+
+hagd
