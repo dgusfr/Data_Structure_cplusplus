@@ -1,4 +1,4 @@
-ui# Estrutura de dados com C++
+# Estrutura de dados com C++
 
 Este repositório contém os exercicios resolvidos em aula, no curso de Estrutura de dados, da Univesp.
 
