@@ -9,7 +9,7 @@ int main() {
   
   while (counter < 10) {
   
-    cout << "Digite um número (" << counter << ")" << endl;
+    cout << "Digite um numero inteiro (" << counter << ")" << endl;
     std::cin >> number1;
 
     if (number1 < 5) {
@@ -18,7 +18,7 @@ int main() {
     counter++;
   }
 
-  cout << "Quantidade de Números Menores que 5: [" << amount <<  "]" << endl;
+  cout << "Quantidade de Numeros Menores que 5: [" << amount <<  "]" << endl;
  
   return 0;
 }

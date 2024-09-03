@@ -6,9 +6,9 @@ int main() {
   int number1;
   int number2;
 
-  cout << "Digite o primeiro número: ";
+  cout << "Digite o primeiro numero: ";
   std::cin >> number1;
-  cout << "Digite o segundo número: ";
+  cout << "Digite o segundo numero: ";
   std::cin >> number2;
 
   if (number1 == number2)
